@@ -1,2 +1,4 @@
 # Manish-
-To solve the problem 
+This is my first code
+<br>
+author: manish  yelne
